@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "tipo": "Casa",
+    "habitaciones": "3",
+    "metros": "100",
+    "precio": "140.000",
+    "barrio": "Vega San martin",
+    "ciudad": "San martin de los andes"
+  },
+  {
+    "id": "2",
+    "tipo": "Departamento",
+    "habitaciones": "2",
+    "metros": "45",
+    "precio": "80.000",
+    "barrio": "Centro",
+    "ciudad": "San martin de los andes"
+  }
+]
